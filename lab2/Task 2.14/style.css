@@ -3,39 +3,24 @@
   background-color: aqua;
   padding: 0;
   margin: 0;
+ 
 }
 .list{
   padding: 8px;
   margin: 0;
   background-color: bisque;
-  float: left;
+  float:left;
   width: 20%;
   height: 100px;
   display: inline-block;
   margin-bottom: 10px;
-}
-@media screen and (max-width:760px){
-    .list{
-      margin: 0;
-      background-color: bisque;
-      float: left;
-      width: 96.5%;
-      height: 5px;
-      margin-top: 20px;
-      margin-bottom: 20px;
-      line-height:2px;
-    }
 }
 ul{
   padding-top: 0;
   margin-top: 0;
   list-style-position: outside;
 }
-@media screen and (max-width:760px){
-    li{
-        display: inline-block;
-    }
-}
+
 
 .first{
   margin-top: 0;
@@ -52,15 +37,27 @@ ul{
 .text{
   margin:0;
   background-color: darkgray;
-  width: 78.9%;
+  width: 78.8%;
   min-width: 465px;
   display: inline-block;
 }
-@media screen and (max-width:760px){
+@media screen and (max-width:1350px){
     .text{
       margin:0;
       background-color: darkgray;
       width: 100%;
 
     }
+    .list{
+      background-color: bisque;
+      float: left;
+      width: 96.8%;
+      height: 5px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      line-height:2px;
+    }
+    li{
+      display: inline-block;
+  }
 }
