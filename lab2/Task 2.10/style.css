@@ -1,0 +1,12 @@
+
+.first{
+  margin: 25px;
+  width: 150px;
+  height: 90px;
+  background-color: aquamarine;
+}
+.second{
+  width: 100%;
+  height: 20px;
+  background-color: bisque;
+}

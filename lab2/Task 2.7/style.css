@@ -1,0 +1,56 @@
+.purple{
+    background-color: blueviolet;
+    width: 150px;
+    height: 100px;
+    color: white;
+    position: static;
+}
+.red{
+    background-color: darkred;
+    width: 150px;
+    height: 100px;
+    color: white;
+    position: relative;
+}
+.orange{
+    background-color: peru;
+    width: 150px;
+    height: 100px;
+    color: white;
+    position: relative;
+    margin-left: 30px;
+    bottom: 30px;
+}
+.green{
+    position: fixed;
+    background-color: forestgreen;
+    width: 97px;
+    height: 100px;
+    right: 0;
+    bottom: 0;
+    color: white;
+}
+.pink{
+    background-color: indianred;
+    color: white;
+    position: relative;
+    width: min(600px, 88%);
+    height: 300px;
+}
+.purple1{
+    background-color: indigo;
+    position: absolute;
+    width: 50%;
+    height: 40%;
+    top:100px;
+    right:0;
+}
+.green{
+    position: fixed;
+    background-color: forestgreen;
+    width: 97px;
+    height: 100px;
+    right: 0;
+    bottom: 0;
+    color: white;
+}

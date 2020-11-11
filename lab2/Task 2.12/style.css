@@ -1,0 +1,27 @@
+.tab{
+  border: 3px solid green;
+  background-color: aqua;
+  padding: 0;
+  margin: 0;
+}
+
+.list{
+  padding-top: 15px;
+  background-color: bisque;
+  height: 80px;
+  width: 20%;
+  min-width: 200px;
+  float: left;
+  margin-right: 4px;
+  display: inline-block;
+}
+ul{
+  padding-top: 0;
+  margin-top: 0;
+}
+.text{
+  margin-right: 4px;
+  background-color: darkgray;
+  width: 79.4%;
+  display: inline-block;
+}

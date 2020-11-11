@@ -1,0 +1,33 @@
+*{
+margin:0;
+padding:0;
+}
+.main{
+    width: 100%;
+    display: flex;
+    border: 1px solid green;
+    background:aqua;
+}
+.bl1{
+    width: 25%;
+}
+.pink{
+    height: 100px;
+    background-color: bisque;
+}
+.blue{
+    background-color: aqua;
+}
+ul{
+    padding: 20px 40px;
+}
+.grey{
+    width: 75%;
+    background-color: grey;
+}
+img{
+    float: right;
+}
+.text1{
+    clear: right;
+}

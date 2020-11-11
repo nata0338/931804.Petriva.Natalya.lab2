@@ -1,0 +1,11 @@
+.block{
+  display: inline-block;
+  background-color: aquamarine;
+  margin: 8px;
+  height: 100px;
+  width: 200px;
+}
+.block2{
+  background-color: bisque;
+  width: 100%;
+}

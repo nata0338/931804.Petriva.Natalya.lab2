@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    border: 1px solid green;
+    height: 250px;
+}
+.blue{
+    background-color: aqua;
+    width: 85%;
+}

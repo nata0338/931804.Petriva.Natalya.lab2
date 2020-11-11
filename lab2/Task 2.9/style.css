@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    width: 600px;
+    margin: 0 auto;
+}
+img{
+    float: right;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
